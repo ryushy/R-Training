@@ -61,7 +61,7 @@ summary(model2)
 pd = data.frame(
   length = 200, 
   width  = 47.19, 
-  thick  = 5.97
+  thick  = 7
   )
 
 predict(model,pd)
